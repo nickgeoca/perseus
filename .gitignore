@@ -9,3 +9,5 @@ pkg/
 target_engine/
 target_wasm/
 dist/
+
+.env
